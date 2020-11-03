@@ -1,1 +1,9 @@
-Hey yo
+Yeah, you don't know how save your files,
+Mr. Drive saying that you have too many files.
+Suddenly you find Git VSC,
+and your problems are gone,
+ASAP.
+Soon you realize what power it has,
+it saves even your deleted space.
+Yeah its the Version Control, 
+and you need to get your files under control.
