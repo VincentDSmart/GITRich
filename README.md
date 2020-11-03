@@ -1,1 +1,1 @@
-# GITRich
+# Medienbaeckerei_M2
