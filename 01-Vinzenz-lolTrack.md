@@ -1,0 +1,47 @@
+lolTrack
+====================
+von Vinzenz Wagner
+---------------------
+
+    VCS is the hottest shit
+    Check out my new branch
+    You know I'm the master of Git
+    
+    Master!, Master!
+    You don't know but my branch is faster!
+    
+    Got a file?
+    Just easy goin
+    Load it up, load it down
+    See it rollin?
+    VCS rules the town
+    
+    Master!, Master!
+    You don't know but my branch is faster!
+    
+    If you screw up
+    no problem there 
+    VCS will take care
+    Safe your work an maybe your life 
+    This shit's dope like my new wife
+
+You see it's without any stress
+VCS's the greatest bless
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
